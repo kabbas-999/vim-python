@@ -1,0 +1,21 @@
+[submodule "bundle/calendar-vi"]
+	path = bundle/calendar-vi
+	url = git://github.com/mattn/calendar-vim
+[submodule "bundle/vim-markdown"]
+	path = bundle/vim-markdown
+	url = git@github.com:plasticboy/vim-markdown.git
+[submodule "bundle/vimwiki"]
+	path = bundle/vimwiki
+	url = git@github.com:vimwiki/vimwiki.git
+[submodule "bundle/vim-sensible"]
+	path = bundle/vim-sensible
+	url = git@github.com:tpope/vim-sensible.git
+[submodule "bundle/ctrip.vim"]
+	path = bundle/ctrip.vim
+	url = git@github.com:kien/ctrlp.vim.git
+[submodule "bundle/nerdtree"]
+	path = bundle/nerdtree
+	url = git@github.com:preservim/nerdtree.git
+[submodule "bundle/autopairs"]
+	path = bundle/autopairs
+	url = git@github.com:jiangmiao/auto-pairs.git
